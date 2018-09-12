@@ -1,11 +1,13 @@
 /* 
  * File:   main.cpp
- * Author: hudson schumaker
+ * Author: hudsonschumaker
  *
  * Created on September 11, 2018, 9:58 PM
  */
 
 #include <iostream>
+#include "Cat.h"
+
 using namespace std;
 
 int main() {
@@ -26,6 +28,11 @@ int main() {
     string input;
     cin >> input;
     cout << "You have " << input << " dog(s)." << endl;
+    
+    //Classes
+    Cat cat;
+    cat.jump();
+    cat.speak();
     
     return 0;
 }
