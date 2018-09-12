@@ -10,11 +10,22 @@ using namespace std;
 
 int main() {
     cout << "Hello World!" << endl;
-    cout << "Hello World!" << "Friends!" << endl;
+    cout << "Olá Mundo!" << " pt_br" << endl;
     
-    //Variables
-    int numGatos = 6;
-    cout << "Gatos: " << numGatos << endl;
+    //Variables - +-*/
+    int numDog = 6;
+    int newDog = 1;
+    cout << "Dog: " << numDog << endl;
+    cout << "Cachorros: " << numDog + newDog << endl;
+    
+    string texto = "Vamos multiplicar nossos cachorros: ";
+    cout << texto << (numDog + newDog) * 2 << endl;
+    
+    //Entradas de usuario
+    cout << "Type how many dogs do you have: " << flush;
+    string input;
+    cin >> input;
+    cout << "You have " << input << " dog(s)." << endl;
     
     return 0;
 }
