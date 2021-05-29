@@ -1,6 +1,6 @@
 /* 
  * File:   Cat.cpp
- * Author: hudsonschumaker
+ * Author: hudson schumaker
  * 
  * Created on September 12, 2018, 12:06 AM
  */
