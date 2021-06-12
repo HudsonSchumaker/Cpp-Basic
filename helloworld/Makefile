@@ -1,2 +1,3 @@
 all:
-	g++ -o hello hello.cpp
+	g++ -o hello Hello.cpp
+	./hello
