@@ -1,15 +1,14 @@
 #include <iostream>
-using namespace std;
  
 struct printData {
     void print(int i) {
-        cout << "Printing int: " << i << endl;
+        std::cout << "Printing int: " << i << std::endl;
     }
     void print(double  f) {
-        cout << "Printing float: " << f << endl;
+        std::cout << "Printing float: " << f << std::endl;
     }
     void print(char* c) {
-        cout << "Printing character: " << c << endl;
+        std::cout << "Printing character: " << c << std::endl;
     }
 };
 
