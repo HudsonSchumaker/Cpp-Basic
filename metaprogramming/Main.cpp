@@ -18,4 +18,6 @@ struct factorial<0> {
 
 int main() {
     std::cout << factorial<7>::value << std::endl; // prints "5040"
+
+    return 0;
 }
