@@ -16,8 +16,7 @@ int main() {
 long asyncFunction() {
     std::cout << "starting asyncFunction ... " << std::endl;
     long max = 0;
-    for (long i = 0; i < 1000000000; ++i)
-    {
+    for (long i = 0; i < 1000000000; ++i) {
         max += i%2;
     }
     std::cout << " Finished asyncFunction ..." << std::endl;
