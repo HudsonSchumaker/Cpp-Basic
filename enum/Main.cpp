@@ -1,3 +1,7 @@
+//
+// Hudson Schumaker
+//
+
 #include<iostream>
 
 class Person final {
