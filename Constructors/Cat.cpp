@@ -5,7 +5,6 @@ using namespace std;
 
 Cat::Cat() {
 	cout << "Cat created." << endl;
-
 	happy = true;
 }
 
