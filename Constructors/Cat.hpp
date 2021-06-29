@@ -6,5 +6,4 @@ class Cat {
 	    void speak();
 	    Cat();
 	    ~Cat();
-
 };
