@@ -1,3 +1,7 @@
+//
+// Hudson Schumaker
+//
+
 class Cat {
     private:
 	    bool happy;
