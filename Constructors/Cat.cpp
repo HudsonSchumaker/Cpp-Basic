@@ -5,8 +5,6 @@
 #include <iostream>
 #include "Cat.hpp"
 
-using namespace std;
-
 Cat::Cat() {
 	cout << "Cat created." << endl;
 	happy = true;
