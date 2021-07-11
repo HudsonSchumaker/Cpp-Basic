@@ -6,7 +6,7 @@
 #include "Cat.hpp"
 
 Cat::Cat() {
-	std::cout << "Cat created." << endl;
+	std::cout << "Cat created." << std::endl;
 	happy = true;
 }
 
