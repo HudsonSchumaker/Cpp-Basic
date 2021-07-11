@@ -16,7 +16,7 @@ Cat::~Cat() {
 
 void Cat::speak() {
 	if(happy) {
-		cout << "Meouww!" << endl;
+		std::cout << "Meouww!" << std::endl;
 	}
 	else {
 		cout << "Ssssss!" << endl;
