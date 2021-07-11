@@ -11,7 +11,7 @@ Cat::Cat() {
 }
 
 Cat::~Cat() {
-	cout << "Cat destroyed." << endl;
+	std::cout << "Cat destroyed." << std::endl;
 }
 
 void Cat::speak() {
