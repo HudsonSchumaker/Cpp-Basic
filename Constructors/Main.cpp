@@ -2,6 +2,10 @@
 #include "Cat.hpp"
 using namespace std;
 
+//
+// Hudson Schumaker
+//
+
 int main() {
 	cout << "Starting program ..." << endl;
 
