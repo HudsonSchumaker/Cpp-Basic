@@ -13,7 +13,7 @@ int main() {
     // Volume of a spherical shell = 4 pi R^3 - 4 pi r^3
     double vol = 4.0*pi*R*R*R/3.0 - 4.0*pi*r*r*r/3.0;
     
-    //Addition:
+    // Addition:
     int a = 2+4/2; // equal to: 2+(4/2) result: 4
     int b = (3+3)/2; // equal to: (3+3)/2 result: 3
 
