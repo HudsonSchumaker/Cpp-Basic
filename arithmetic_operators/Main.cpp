@@ -10,7 +10,7 @@ int main() {
     float pi = 3.1415;
     float R = 4.0;
     float r = 2.0;
-    // volume of a spherical shell = 4 pi R^3 - 4 pi r^3
+    // Volume of a spherical shell = 4 pi R^3 - 4 pi r^3
     double vol = 4.0*pi*R*R*R/3.0 - 4.0*pi*r*r*r/3.0;
     
     //Addition:
