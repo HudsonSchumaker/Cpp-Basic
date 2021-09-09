@@ -17,7 +17,7 @@ int main() {
     int a = 2+4/2; // equal to: 2+(4/2) result: 4
     int b = (3+3)/2; // equal to: (3+3)/2 result: 3
 
-    //With Multiplication
+    // With Multiplication
     int c = 3+4/2*6; // equal to: 3+((4/2)*6) result: 15
     int d = 3*(3+6)/9; // equal to: (3*(3+6))/9 result: 3
     
