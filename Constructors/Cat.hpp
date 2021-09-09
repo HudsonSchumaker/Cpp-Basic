@@ -2,7 +2,7 @@
 // Hudson Schumaker
 //
 
-class Cat {
+class Cat final {
     private:
 	    bool happy;
 
