@@ -21,7 +21,7 @@ int main() {
     int c = 3+4/2*6; // equal to: 3+((4/2)*6) result: 15
     int d = 3*(3+6)/9; // equal to: (3*(3+6))/9 result: 3
     
-    //Division and Modulo
+    // Division and Modulo
     int g = 3-3%1; // equal to: 3 % 1 = 0 3 - 0 = 3
     int h = 3-(3%1); // equal to: 3 % 1 = 0 3 - 0 = 3
     int i = 3-3/1%3; // equal to: 3 / 1 = 3 3 % 3 = 0 3 - 0 = 3
