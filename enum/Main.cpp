@@ -17,7 +17,7 @@ int main() {
     Person::Gender gender = p.Gender::Male;
     
     switch (gender) {
-        case Person::Gender::Male:
+        case Person::Gender::Male: // Class - Enum - Enum Name
             std::cout << "Gender is Male";
             break;
         
