@@ -1,6 +1,6 @@
 //
 // Hudson Schumaker
-//
+// 
 
 #include <iostream>
 #include "Cat.hpp"
