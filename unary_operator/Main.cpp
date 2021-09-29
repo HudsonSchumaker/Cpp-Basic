@@ -7,7 +7,7 @@
 
 int main() {
 
-    int a = 1;
+    int a = 1; 
     ++a; // result: 2
     a--; // result: 1
     int minusa =- a; // result: -1
