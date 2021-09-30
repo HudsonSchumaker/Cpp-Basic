@@ -33,7 +33,7 @@ int main() {
     
     std::cout << result << " :=====================" << std::endl;
     // TrueA
-    //"Short-circuit evaluation skip of B"
+    // "Short-circuit evaluation skip of B"
     //"Short-circuit evaluation skip of C"
     //A is true so we do not have to evaluate
     // the right of || to know that the result is true
