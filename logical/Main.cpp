@@ -17,7 +17,7 @@ bool False(std::string id) {
 
 int main() {
     bool result;
-    //let's evaluate 3 booleans with || and && to illustrate operator precedence
+    // let's evaluate 3 booleans with || and && to illustrate operator precedence
     //precedence does not mean that && will be evaluated first but rather where
     //parentheses would be added
     //example 1
