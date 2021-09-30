@@ -32,7 +32,7 @@ int main() {
     // eq. True("A") || (False("B") && False("C"))
     
     std::cout << result << " :=====================" << std::endl;
-    //TrueA
+    // TrueA
     //"Short-circuit evaluation skip of B"
     //"Short-circuit evaluation skip of C"
     //A is true so we do not have to evaluate
