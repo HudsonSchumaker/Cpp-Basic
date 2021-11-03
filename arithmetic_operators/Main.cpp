@@ -6,7 +6,7 @@
 #include <iostream>
 #include <string>
 
-int main() {
+int main(void) {
 
     float pi = 3.141592;
     float R = 4.0;
