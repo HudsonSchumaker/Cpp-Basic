@@ -5,6 +5,7 @@
 #include <iostream>
 #include "Cat.hpp"
 using namespace std;
+
 int main() {
 	cout << "Starting program ..." << endl;
 
