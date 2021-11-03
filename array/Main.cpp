@@ -40,6 +40,8 @@ auto main() -> int {
         }
         std::cout << '\n';
     }
+    
+    return 0;
 }
 
 
