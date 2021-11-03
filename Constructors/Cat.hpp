@@ -1,5 +1,6 @@
 //
 // Hudson Schumaker
+// Cat.hpp
 //
 
 class Cat final {
