@@ -13,7 +13,7 @@ class Person final {
         };
 };
 
-int main() {
+int main(void) {
     Person p = Person();
     Person::Gender gender = p.Gender::Male;
     
