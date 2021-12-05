@@ -1,3 +1,3 @@
 all:
-	g++ -o main structs.cpp
+	g++ -o main struct.cpp
 	./main
