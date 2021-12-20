@@ -1,3 +1,7 @@
+// 
+// Hudson Schumaker
+//
+
 #include <iostream>
 
 // added additional parentheses around the arg
