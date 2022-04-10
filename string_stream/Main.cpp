@@ -11,7 +11,7 @@ using namespace std;
 int main() {
 
 	string name = "Paul";
-	register int age = 32;
+	int age = 32;
 
 	stringstream ss;
 
