@@ -1,6 +1,6 @@
 //
-// SchumakerTeam.
-// Hudson Schumaker
+// SchumakerLab
+// Hudson Schumaker 
 //
 
 #include <iostream>
