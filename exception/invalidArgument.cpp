@@ -1,6 +1,7 @@
 #include <iostream>
 #include <exception>
 
+// c++ 17
 auto takes_positive(int arg) {
     if (arg < 0) {
         throw std::invalid_argument("Is negative");
