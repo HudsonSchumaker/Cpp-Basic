@@ -1,7 +1,9 @@
-/**
- * This is a brief example of typedef-ing and structs in C.
- */
+//
+// SchumakerLab
+// Hudson Schumaker 
+//
 
+ // This is a brief example of typedef-ing and structs in C.
 typedef int Int; // int or Int
 
 struct Person {
