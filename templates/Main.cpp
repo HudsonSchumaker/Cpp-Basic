@@ -21,5 +21,9 @@ int main() {
   std::cout << max(2, 3.3f) << '\n';
   std::cout << max('Z', 'a') << '\n';
   
+  std::cout << min(2, 3) << '\n';
+  std::cout << min(2, 3.3f) << '\n';
+  std::cout << min('Z', 'a') << '\n';
+  
   return 0;
 }
