@@ -10,6 +10,8 @@ auto max(T a, U b) {
   return (a > b) ? a : b;
 }
 
+template <typename T, typename U>
+
 
 int main() {
 
