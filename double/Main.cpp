@@ -1,5 +1,5 @@
 //
-// SchumakerTeam.
+// SchumakerTeam
 // Hudson Schumaker 
 // 
 
