@@ -1,5 +1,6 @@
 //
 // Hudson Schumaker
+// Schumaker Lab
 //
 
 struct User
