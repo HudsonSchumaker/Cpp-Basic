@@ -1,5 +1,5 @@
 //
-// SchumakerLab
+// Schumaker Lab
 // Hudson Schumaker 
 //
 
