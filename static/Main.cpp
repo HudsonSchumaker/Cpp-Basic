@@ -15,7 +15,7 @@ class Number {
 };
 
 int main() {
-    Number::zero();
+    std::cout << Number::zero() << std::endl;
     std::cout << Number::getCount() << std::endl;
     
     return 0;
