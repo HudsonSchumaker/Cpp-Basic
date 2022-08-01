@@ -11,7 +11,7 @@ auto max(T a, U b) {
 }
 
 template <typename T, typename U>
-
+auto min(T a, U b) {
 
 int main() {
 
