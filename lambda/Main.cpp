@@ -1,5 +1,7 @@
 //
 // Schumaker Lab
+// Hudson Schumaker
+//
 
 #include <iostream>
 #include <vector>
