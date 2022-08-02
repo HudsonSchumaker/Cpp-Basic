@@ -18,4 +18,6 @@ int main() {
 
    std::vector values = { 1,5,4,2,3 };
    foreach(values, print);
+   
+   return 0;
 }
