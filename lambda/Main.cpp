@@ -14,4 +14,6 @@ int main() {
 
    std::vector values = { 1,5,4,2,3 };
    foreach(values, [](int value) { std::cout << value << '\n';} );
+   
+   return 0;
 }
