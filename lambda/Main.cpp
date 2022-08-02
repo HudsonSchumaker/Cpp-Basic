@@ -1,4 +1,5 @@
 //
+// Schumaker Lab
 
 #include <iostream>
 #include <vector>
