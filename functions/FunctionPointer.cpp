@@ -1,8 +1,11 @@
+//
+// Schumaker Lab
+// Hudson Schumaker
+//
 
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
 
 void foreach(const std::vector<int>& values, void(*func)(int)) {
    for (int value : values) {
