@@ -4,7 +4,7 @@ using namespace std;
 
 class Animal {
 public:
-    int id = 0; 
+	int id = 0; 
 	void speak() { cout << "Grrrr" << endl; }
 };
 
