@@ -1,6 +1,6 @@
 //
 // Hudson Schumaker
-// Main.cpp
+// Main.cpp 
 //
 
 #include <iostream>
@@ -43,8 +43,3 @@ auto main() -> int {
     
     return 0;
 }
-
-
-
-
-
